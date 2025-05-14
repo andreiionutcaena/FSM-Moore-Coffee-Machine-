@@ -1,0 +1,43 @@
+# Vivado-generated files
+*.jou
+*.log
+*.str
+*.pb
+*.xml
+*.xpr
+*.xsd
+*.bak
+*.tmp
+*.wdb
+*.tcl
+*.csv
+
+# Simulation output
+*.vcd
+*.wlf
+*.svf
+*.lxt
+*.fst
+*.vvp
+*.vpi
+*.vdb
+*.out
+*.sim
+
+# XSIM
+xsim.dir/
+*.log
+*.jou
+*.pb
+
+# Generated directories
+*.sim/
+*.ip_user_files/
+*.hw/
+*.runs/
+*.cache/
+*.gen/
+
+# OS junk
+.DS_Store
+Thumbs.db
