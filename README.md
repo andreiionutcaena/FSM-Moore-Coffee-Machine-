@@ -15,7 +15,7 @@ The testbench simulates multiple input scenarios and compares the FSM's output (
 
 ## 📁 File Structure
 
-
+```
 coffe_machine/
 ├── FSM.sv         # FSM design in SystemVerilog
 ├── testbench.sv   # Testbench for the FSM
