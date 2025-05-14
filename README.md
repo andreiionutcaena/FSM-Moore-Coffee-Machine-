@@ -16,7 +16,7 @@ The testbench simulates multiple input scenarios and compares the FSM's output (
 ## 📁 File Structure
 
 ```
-coffe_machine/
+FSM-Moore-Coffee-Machine-/
 ├── FSM.sv         # FSM design in SystemVerilog
 ├── testbench.sv   # Testbench for the FSM
 ├── .gitignore     # gitignore document for the project
